@@ -46,11 +46,11 @@
 ---
 > **Puertos de HTTP y HTTPS:** *HTTP y HTTPS utilizan diferentes puertos por defecto. HTTP utiliza el puerto 80, mientras que HTTPS utiliza el puerto 443. Estos son los puertos predeterminados, pero se pueden configurar para usar otros puertos si es necesario.*
 
-![**Img**]()
+![**Img**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-HTTP-VS-HTTPS/HTTP%20VS%20HTTPS1.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-HTTP-VS-HTTPS/HTTP%20VS%20HTTPS1.png?raw=true")
 
-![**Img dos**]()
+![**Img dos**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-HTTP-VS-HTTPS/HTTP%20VS%20HTTPS2.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-HTTP-VS-HTTPS/HTTP%20VS%20HTTPS2.png?raw=true")
 
-![**Img tres**]()
+![**Img tres**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-HTTP-VS-HTTPS/HTTP%20VS%20HTTPS3.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-HTTP-VS-HTTPS/HTTP%20VS%20HTTPS3.png?raw=true")
 
 **`SSL y TLS  a veces denominados «certificados digitales», se utilizan para establecer una conexión cifrada entre un navegador o el ordenador de un usuario y un servidor o un sitio web. Son protocolos de seguridad utilizados en la comunicación de red.`**
 
@@ -120,50 +120,50 @@ ___
 
 <!-- [^1]:Configuraciones del navegador Firefox -->
 
-![**Configuracion Firefox img #1**]()
+![**Configuracion Firefox img #1**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Firefox/configuracion%20firefox1.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Firefox/configuracion%20firefox1.png?raw=true")
 
-![**Configuracion Firefox img #2**]()
+![**Configuracion Firefox img #2**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Firefox/configuracion%20firefox2.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Firefox/configuracion%20firefox2.png?raw=true")
 
-![**Configuracion Firefox img #3**]()
+![**Configuracion Firefox img #3**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Firefox/configuracion%20firefox3.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Firefox/configuracion%20firefox3.png?raw=true")
 
-![**Configuracion Firefox img #4**]()
+![**Configuracion Firefox img #4**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Firefox/configuracion%20firefox4.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Firefox/configuracion%20firefox4.png?raw=true")
 
-![**Configuracion Firefox img #5**]()
+![**Configuracion Firefox img #5**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Firefox/configuracion%20firefox5.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Firefox/configuracion%20firefox5.png?raw=true")
 
-![**Configuracion Firefox img #6**]()
+![**Configuracion Firefox img #6**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Firefox/configuracion%20firefox6.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Firefox/configuracion%20firefox6.png?raw=true")
 
-![**Configuracion Firefox img #7**]()
+![**Configuracion Firefox img #7**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Firefox/configuracion%20firefox7.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Firefox/configuracion%20firefox7.png?raw=true")
 
-![**Configuracion Firefox img #8**]()
+![**Configuracion Firefox img #8**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Firefox/configuracion%20firefox8.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Firefox/configuracion%20firefox8.png?raw=true")
 
 ---
 
 # ***Configuraciones segura para navegador Chrome***
 <!-- [^2]:Configuraciones del navegador Chrome -->
 
-![**Configuracion Chrome img #1**]()
+![**Configuracion Chrome img #1**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Chrome/Configuracion%20Chrome1.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Chrome/Configuracion%20Chrome1.png?raw=true")
 
-![**Configuracion Chrome img #2**]()
+![**Configuracion Chrome img #2**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Chrome/Configuracion%20Chrome2.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Chrome/Configuracion%20Chrome2.png?raw=true")
 
-![**Configuracion Chrome img #3**]()
+![**Configuracion Chrome img #3**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Chrome/Configuracion%20Chrome3.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Chrome/Configuracion%20Chrome3.png?raw=true")
 
-![**Configuracion Chrome img #4**]()
+![**Configuracion Chrome img #4**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Chrome/Configuracion%20Chrome4.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Chrome/Configuracion%20Chrome4.png?raw=true")
 
-![**Configuracion Chrome img #5**]()
+![**Configuracion Chrome img #5**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Chrome/Configuracion%20Chrome5.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Chrome/Configuracion%20Chrome5.png?raw=true")
 
-![**Configuracion Chrome img #6**]()
+![**Configuracion Chrome img #6**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Chrome/Configuracion%20Chrome6.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Chrome/Configuracion%20Chrome6.png?raw=true")
 
-![**Configuracion Chrome img #7**]()
+![**Configuracion Chrome img #7**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Chrome/Configuracion%20Chrome7.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Chrome/Configuracion%20Chrome7.png?raw=true")
 
-![**Configuracion Chrome img #8**]()
+![**Configuracion Chrome img #8**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Chrome/Configuracion%20Chrome8.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Chrome/Configuracion%20Chrome8.png?raw=true")
 
-![**Configuracion Chrome img #9**]()
+![**Configuracion Chrome img #9**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Chrome/Configuracion%20Chrome9.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Chrome/Configuracion%20Chrome9.png?raw=true")
 
-![**Configuracion Chrome img #10**]()
+![**Configuracion Chrome img #10**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Chrome/Configuracion%20Chrome10.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Chrome/Configuracion%20Chrome10.png?raw=true")
 
-![**Configuracion Chrome img #11**]()
+![**Configuracion Chrome img #11**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Chrome/Configuracion%20Chrome11.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Chrome/Configuracion%20Chrome11.png?raw=true")
 
-![**Configuracion Chrome img #12**]()
+![**Configuracion Chrome img #12**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Chrome/Configuracion%20Chrome12.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Chrome/Configuracion%20Chrome12.png?raw=true")
 
 ---
 <!-- [^3]:Motor de busqueda DuckDuckGo -->
@@ -200,25 +200,25 @@ ___
 
 >*Extensiones para el navegador*
 
-![**Configuracion Brave img #1**]()
+![**Configuracion Brave img #1**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Brave/Configuracion%20Brave1.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Brave/Configuracion%20Brave1.png?raw=true")
 
-![**Configuracion Brave img #2**]()
+![**Configuracion Brave img #2**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Brave/Configuracion%20Brave2.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Brave/Configuracion%20Brave2.png?raw=true")
 
-![**Configuracion Brave img #3**]()
+![**Configuracion Brave img #3**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Brave/Configuracion%20Brave3.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Brave/Configuracion%20Brave3.png?raw=true")
 
-![**Configuracion Brave img #4**]()
+![**Configuracion Brave img #4**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Brave/Configuracion%20Brave4.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Brave/Configuracion%20Brave4.png?raw=true")
 
-![**Configuracion Brave img #5**]()
+![**Configuracion Brave img #5**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Brave/Configuracion%20Brave5.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Brave/Configuracion%20Brave5.png?raw=true")
 
-![**Configuracion Brave img #6**]()
+![**Configuracion Brave img #6**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Brave/Configuracion%20Brave6.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Brave/Configuracion%20Brave6.png?raw=true")
 
-![**Configuracion Brave img #7**]()
+![**Configuracion Brave img #7**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Brave/Configuracion%20Brave7.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Brave/Configuracion%20Brave7.png?raw=true")
 
-![**Configuracion Brave img #8**]()
+![**Configuracion Brave img #8**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Brave/Configuracion%20Brave8.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Brave/Configuracion%20Brave8.png?raw=true")
 
-![**Configuracion Brave img #9**]()
+![**Configuracion Brave img #9**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Brave/Configuracion%20Brave9.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Brave/Configuracion%20Brave9.png?raw=true")
 
-![**Configuracion Brave img #10**]()
+![**Configuracion Brave img #10**](https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Brave/Configuracion%20Brave10.png?raw=true "https://github.com/DanielPerezMorales13/Proteccion-en-la-red/blob/main/Images/PNG/Img-Brave/Configuracion%20Brave10.png?raw=true")
 
 1. [Cookie editor Mozilla](https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/ "https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/")
 2. [Cookie editor Brave](https://chromewebstore.google.com/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg "https://chromewebstore.google.com/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg")
@@ -229,7 +229,7 @@ ___
 ---
 
 # ***IP-Publica***
->
+
 > **Dirección IP Pública:** *La dirección IP pública es la dirección única asignada a tu red desde el proveedor de servicios de Internet (ISP). Es la dirección que se utiliza para identificar tu red en Internet. Todas las dispositivos conectados a Internet desde tu red doméstica compartirán la misma dirección IP pública. Esta dirección es necesaria para que los dispositivos se comuniquen con otros dispositivos en Internet. Puedes obtener tu dirección IP pública utilizando servicios en línea o comandos específicos en la terminal.*
 
 1. *Puedes utilizar servicios en línea para obtener tu IP pública. Uno de los servicios comunes es curl para obtener la IP desde un sitio web comando en **Ubuntu es:***
